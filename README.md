@@ -2,7 +2,7 @@
 
 **AI/ML Researcher | Computer Vision Engineer | Full-Stack Developer**
 
-Welcome to my GitHub! I'm building cutting-edge AI solutions for image processing, computer vision, and deep learning. Currently an **AI/ML Researcher at Hohai University** working on image watermarking security and robustness evaluation.
+Welcome to my GitHub! I'm building cutting-edge AI solutions for image processing, computer vision, and deep learning. Currently an **AI/ML Researcher at Hohai University** working on image watermarking, diffusion-based attacks, and robust vision systems.
 
 ---
 
@@ -48,7 +48,7 @@ I'm a dedicated researcher and engineer passionate about:
 - Conducting cutting-edge research on image watermarking and diffusion-based attacks
 - Writing SCI papers on robustness evaluation and attack mechanisms
 - Managing multi-agent AI systems for large-scale experiments
-- 📊 2 papers published, 3 under review in top venues
+- 📊 2 papers published, 3 under review, 3 submitted
 
 ### 🎓 Research Assistant | Mehran University
 **December 2023 – May 2024**  
@@ -112,24 +112,40 @@ I'm a dedicated researcher and engineer passionate about:
 ## 📜 Publications & Research
 
 ### ✅ Published
-- **"Generative AI in Software Engineering"** (2025)
-  - Spectrum of Engineering Sciences, Vol. 3, Issue 10, p335-348
+- **T. A. Arain, P. C. Zhang, S. Mazhar, Q. Meng, Imran Ali Soomro**
+  - "Attention-guided multi-feature fusion hybrid architecture for person re-identification in smart surveillance systems"
+  - *Image and Vision Computing (Elsevier)*, 2026.
+  - DOI: [10.1016/j.imavis.2026.106014](https://doi.org/10.1016/j.imavis.2026.106014)
 
-### 🔬 Under Review (Top Venues)
-1. **Erasing the Invisible** - Diffusion watermark removal attacks
-   - IEEE Transactions on Information Forensics & Security
-   
-2. **SPQG-YOLO26** - Lightweight low-light object detection
-   - Applied Soft Computing
-   
-3. **SAG-SSNet** - Winter road segmentation
-   - Image and Vision Computing, Elsevier
-   
-4. **CPU Forecasting** - Cloud resource prediction
-   - Computing, Springer
-   
-5. **Person Re-ID** - Surveillance system optimization
-   - Image and Vision Computing, Elsevier
+- **M. M. Raza, Imran Ali Soomro, W. U. Khan, M. Q. Iqbal**
+  - "Generative Artificial Intelligence in Software Engineering: Redefining Programming Paradigms and Development Practices"
+  - *Spectrum of Engineering Sciences*, vol. 3, no. 10, pp. 335–348, 2025.
+
+### 🔬 Under Review
+1. **Imran Ali Soomro, A. Habib, S. Abbas, M. H. Zahoor**
+   - **R-DCRNet: Recurrent Daily-Context Residual Refinement for Multi-Step Cloud CPU Utilisation Forecasting**
+   - *Computing (Springer)*
+
+2. **A. Habib, Imran Ali Soomro**
+   - **Region-Level Correction in Post-Treatment Glioma Segmentation: A Controlled Comparison of Factorised and Monolithic Models**
+   - *Discover Computer Vision (Springer)*
+
+3. **S. Mazhar, T. A. Arain, B. Mazhar, M. Ali, Imran Ali Soomro, R. B. Baloch**
+   - **Beyond Accuracy: A Structured Uncertainty Perspective on Robust Occluded Person Re-Identification**
+   - *Neurocomputing (Elsevier)*
+
+### 📝 Submitted
+1. **Imran Ali Soomro, Ping Ping**
+   - **Erasing the Invisible: Anomaly-Gated Attention for Fidelity-Preserving Diffusion Watermark Removal**
+   - *IEEE Transactions on Information Forensics and Security*
+
+2. **S. Abbas, S. Abbas, Imran Ali Soomro, M. Hussain, H. Zafar, Ahmad**
+   - **SPQG-YOLO26: Structure-Preserving Quality-Guided P3 Refinement for Lightweight Low-Light Object Detection**
+   - *Applied Soft Computing*
+
+3. **Imran Ali Soomro, S. Abbas, S. Mazhar, A. Habib, T. A. Arain, A. Rahim**
+   - **SAG-SSNet: Scene-Adaptive Gated Spatiotemporal Segmentation Network for Robust Winter Road Segmentation**
+   - *Image and Vision Computing (Elsevier)*
 
 ---
 
@@ -237,4 +253,4 @@ I'm actively working on:
 
 **Thank you for visiting my profile!** ⭐ If you find my work interesting, please consider starring my repositories and following for updates on new projects!
 
-*Last Updated: September 2026*
+*Last Updated: October 2026*
